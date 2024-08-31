@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/mamta519github/Leetcode/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/mamta519github/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mamta519github/Leetcode/tree/master/0231-power-of-two) |
+| [0258-add-digits](https://github.com/mamta519github/Leetcode/tree/master/0258-add-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0043-multiply-strings](https://github.com/mamta519github/Leetcode/tree/master/0043-multiply-strings) |
+| [0258-add-digits](https://github.com/mamta519github/Leetcode/tree/master/0258-add-digits) |
 ## Recursion
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mamta519github/Leetcode/tree/master/0069-sqrtx) |
+## Number Theory
+|  |
+| ------- |
+| [0258-add-digits](https://github.com/mamta519github/Leetcode/tree/master/0258-add-digits) |
 <!---LeetCode Topics End-->
