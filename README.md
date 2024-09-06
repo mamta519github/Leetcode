@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mamta519github/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mamta519github/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mamta519github/Leetcode/tree/master/0258-add-digits) |
+| [1013-fibonacci-number](https://github.com/mamta519github/Leetcode/tree/master/1013-fibonacci-number) |
 ## Two Pointers
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/mamta519github/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [1013-fibonacci-number](https://github.com/mamta519github/Leetcode/tree/master/1013-fibonacci-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/mamta519github/Leetcode/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/mamta519github/Leetcode/tree/master/0231-power-of-two) |
+| [1013-fibonacci-number](https://github.com/mamta519github/Leetcode/tree/master/1013-fibonacci-number) |
 ## Binary Search
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/mamta519github/Leetcode/tree/master/0258-add-digits) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/mamta519github/Leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
