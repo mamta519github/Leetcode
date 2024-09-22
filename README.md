@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/mamta519github/Leetcode/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/mamta519github/Leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/mamta519github/Leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/mamta519github/Leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/mamta519github/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mamta519github/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mamta519github/Leetcode/tree/master/0367-valid-perfect-square) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/mamta519github/Leetcode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/mamta519github/Leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/mamta519github/Leetcode/tree/master/0409-longest-palindrome) |
 ## Array
 |  |
@@ -53,10 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/mamta519github/Leetcode/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/mamta519github/Leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/mamta519github/Leetcode/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/mamta519github/Leetcode/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0015-3sum](https://github.com/mamta519github/Leetcode/tree/master/0015-3sum) |
+| [0268-missing-number](https://github.com/mamta519github/Leetcode/tree/master/0268-missing-number) |
 ## String Matching
 |  |
 | ------- |
@@ -67,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/mamta519github/Leetcode/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/mamta519github/Leetcode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/mamta519github/Leetcode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/mamta519github/Leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/mamta519github/Leetcode/tree/master/0342-power-of-four) |
 ## Simulation
 |  |
@@ -85,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/mamta519github/Leetcode/tree/master/0069-sqrtx) |
+| [0268-missing-number](https://github.com/mamta519github/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mamta519github/Leetcode/tree/master/0367-valid-perfect-square) |
 ## Number Theory
 |  |
