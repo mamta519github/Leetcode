@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0541-reverse-string-ii](https://github.com/mamta519github/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/mamta519github/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1205-defanging-an-ip-address](https://github.com/mamta519github/Leetcode/tree/master/1205-defanging-an-ip-address) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/mamta519github/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/mamta519github/Leetcode/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/mamta519github/Leetcode/tree/master/0268-missing-number) |
 | [0409-longest-palindrome](https://github.com/mamta519github/Leetcode/tree/master/0409-longest-palindrome) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/mamta519github/Leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Array
 |  |
 | ------- |
