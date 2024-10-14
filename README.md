@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/mamta519github/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0507-perfect-number](https://github.com/mamta519github/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mamta519github/Leetcode/tree/master/1013-fibonacci-number) |
+| [2630-alternating-digit-sum](https://github.com/mamta519github/Leetcode/tree/master/2630-alternating-digit-sum) |
 ## Two Pointers
 |  |
 | ------- |
