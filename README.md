@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/mamta519github/Leetcode/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/mamta519github/Leetcode/tree/master/0035-search-insert-position) |
 | [0136-single-number](https://github.com/mamta519github/Leetcode/tree/master/0136-single-number) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mamta519github/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/mamta519github/Leetcode/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/mamta519github/Leetcode/tree/master/0792-binary-search) |
 | [1580-shuffle-the-array](https://github.com/mamta519github/Leetcode/tree/master/1580-shuffle-the-array) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0035-search-insert-position](https://github.com/mamta519github/Leetcode/tree/master/0035-search-insert-position) |
 | [0069-sqrtx](https://github.com/mamta519github/Leetcode/tree/master/0069-sqrtx) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/mamta519github/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0268-missing-number](https://github.com/mamta519github/Leetcode/tree/master/0268-missing-number) |
 | [0367-valid-perfect-square](https://github.com/mamta519github/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0792-binary-search](https://github.com/mamta519github/Leetcode/tree/master/0792-binary-search) |
