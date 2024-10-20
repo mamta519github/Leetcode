@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/mamta519github/Leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/mamta519github/Leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/mamta519github/Leetcode/tree/master/0367-valid-perfect-square) |
+| [0415-add-strings](https://github.com/mamta519github/Leetcode/tree/master/0415-add-strings) |
 | [0507-perfect-number](https://github.com/mamta519github/Leetcode/tree/master/0507-perfect-number) |
 | [1013-fibonacci-number](https://github.com/mamta519github/Leetcode/tree/master/1013-fibonacci-number) |
 | [2630-alternating-digit-sum](https://github.com/mamta519github/Leetcode/tree/master/2630-alternating-digit-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/mamta519github/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/mamta519github/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0409-longest-palindrome](https://github.com/mamta519github/Leetcode/tree/master/0409-longest-palindrome) |
+| [0415-add-strings](https://github.com/mamta519github/Leetcode/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/mamta519github/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0680-valid-palindrome-ii](https://github.com/mamta519github/Leetcode/tree/master/0680-valid-palindrome-ii) |
 | [1205-defanging-an-ip-address](https://github.com/mamta519github/Leetcode/tree/master/1205-defanging-an-ip-address) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0043-multiply-strings](https://github.com/mamta519github/Leetcode/tree/master/0043-multiply-strings) |
 | [0258-add-digits](https://github.com/mamta519github/Leetcode/tree/master/0258-add-digits) |
+| [0415-add-strings](https://github.com/mamta519github/Leetcode/tree/master/0415-add-strings) |
 ## Recursion
 |  |
 | ------- |
